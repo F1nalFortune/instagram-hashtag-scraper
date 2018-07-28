@@ -5,7 +5,7 @@ module.exports = {
     URL_INSTAGRAM_MEDIA_SHORTCODE: 'https://www.instagram.com/p/',
 
     // VARIABLES
-    INSTAGRAM_DEFAULT_HASHTAG: 'landscape',
+    INSTAGRAM_DEFAULT_HASHTAG: 'toadsplace',
     INSTAGRAM_DEFAULT_FIRST: 10
 
 };
